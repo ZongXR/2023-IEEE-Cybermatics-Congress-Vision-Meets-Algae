@@ -161,3 +161,5 @@ cython_debug/
 notebooks/.ipynb_checkpoints
 notebooks/runs
 notebooks/Vision_Meets_Algae
+notebooks/yolov8n.pt
+data/labels/*.cache
